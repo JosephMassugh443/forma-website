@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title description">
+  <title id="title">FORMA — Considered websites for independent businesses</title>
+  <desc id="description">Social sharing image for FORMA, an independent web design studio.</desc>
+  <rect width="1200" height="630" fill="#f5f5f0"/>
+  <path fill="#171717" d="M72 64h72v20H96v18h40v20H96v36H72z"/>
+  <path fill="#d75635" d="M136 122h16v16h-16z"/>
+  <path stroke="#deded8" d="M72 190h1056"/>
+  <text x="64" y="430" fill="#171717" font-family="Inter, Arial, sans-serif" font-size="190" font-weight="700" letter-spacing="24">FORMA</text>
+  <text x="72" y="530" fill="#737373" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="400" letter-spacing="-1">Considered websites for independent businesses.</text>
+  <circle cx="1118" cy="526" r="10" fill="#d75635"/>
+</svg>
